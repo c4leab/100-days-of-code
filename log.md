@@ -9,3 +9,9 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+
+### Day 1: March 11th, 2022
+
+**Today's Progress**: Didn't really know what to do, so I just tried to mess around with the code and see where it took me. I ended up making a snowman of sorts. I couldn't get the js to work. I need to work on that. 
+
+**Link to work:** [Snowman] index.html
