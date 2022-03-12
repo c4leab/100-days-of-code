@@ -12,6 +12,13 @@
 
 ### Day 1: March 11th, 2022
 
-**Today's Progress**: Didn't really know what to do, so I just tried to mess around with the code and see where it took me. I ended up making a snowman of sorts. I couldn't get the js to work. I need to work on that. 
+**Today's Progress:** Didn't really know what to do, so I just tried to mess around with the code and see where it took me. I ended up making a snowman of sorts. I couldn't get the js to work. I need to work on that. 
 
 **Link to work:** [Snowman](https://github.com/c4leab/100-days-of-code/blob/master/first.html)
+
+
+### Day 2: March 12, 2022
+
+**Today's Progress:** Started color switcher project. Didn't get that far, was mostly trying to get the navigation bar to look good.
+
+**Link to work:**
