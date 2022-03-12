@@ -14,4 +14,4 @@
 
 **Today's Progress**: Didn't really know what to do, so I just tried to mess around with the code and see where it took me. I ended up making a snowman of sorts. I couldn't get the js to work. I need to work on that. 
 
-**Link to work:** [Snowman]https://github.com/c4leab/100-days-of-code/blob/master/first.html
+**Link to work:** [Snowman](https://github.com/c4leab/100-days-of-code/blob/master/first.html)
