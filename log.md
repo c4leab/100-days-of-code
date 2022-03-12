@@ -21,4 +21,4 @@
 
 **Today's Progress:** Started color switcher project. Didn't get that far, was mostly trying to get the navigation bar to look good.
 
-**Link to work:**
+**Link to work:** [Color Switcher](https://github.com/c4leab/100-days-of-code/blob/master/cs.html)
