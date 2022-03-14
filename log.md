@@ -22,3 +22,10 @@
 **Today's Progress:** Started color switcher project. Didn't get that far, was mostly trying to get the navigation bar to look good.
 
 **Link to work:** [Color Switcher](https://github.com/c4leab/100-days-of-code/blob/master/cs.html)
+
+
+### Day 3: March 13, 2022
+
+**Today's Progress:** Realized that I don't know how to use Javascript with HTML and CSS, so I started the FCC web dev course. Got about 60% into the HTML portion. Project was a cat picture site, purely HTML.
+
+**Link to work:** no work atm, doing FCC course
