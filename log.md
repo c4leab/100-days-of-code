@@ -29,3 +29,10 @@
 **Today's Progress:** Realized that I don't know how to use Javascript with HTML and CSS, so I started the FCC web dev course. Got about 60% into the HTML portion. Project was a cat picture site, purely HTML.
 
 **Link to work:** no work atm, doing FCC course
+
+
+### Day 4: March 14, 2022
+
+**Today's Progress:** Finished the basic HTML and basic CSS portion of FCC course. Mostly a revision of things I already knew. Some new things I learned were CSS Variables and how to use them and Media Querys and how they are used to increase the responsiveness of a website.
+
+**Link to work:** doing FCC course.
