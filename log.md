@@ -36,3 +36,10 @@
 **Today's Progress:** Finished the basic HTML and basic CSS portion of FCC course. Mostly a revision of things I already knew. Some new things I learned were CSS Variables and how to use them and Media Querys and how they are used to increase the responsiveness of a website.
 
 **Link to work:** doing FCC course.
+
+
+### Day 5: March 15, 2022
+
+**Today's Progress:** Started and got about 70% through the Applied Visual Design portion of the FCC course. Learned a few HTML tags and a bunch of CSS properties. Used the stuff I learned to create a moon and heart graphic. 
+
+**Link to work:** doing FCC course.
