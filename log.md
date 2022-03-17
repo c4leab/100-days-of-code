@@ -43,3 +43,10 @@
 **Today's Progress:** Started and got about 70% through the Applied Visual Design portion of the FCC course. Learned a few HTML tags and a bunch of CSS properties. Used the stuff I learned to create a moon and heart graphic. 
 
 **Link to work:** doing FCC course.
+
+
+### Day 6: March 16, 2022
+
+**Today's Progress:** Learned about animation and key frames. Couldn't understand the cubic-bezier thing but finished the applied visual design portion of the FCC curriculum.
+
+**Link to work:** doin FCC course
