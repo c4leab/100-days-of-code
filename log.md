@@ -49,4 +49,19 @@
 
 **Today's Progress:** Learned about animation and key frames. Couldn't understand the cubic-bezier thing but finished the applied visual design portion of the FCC curriculum.
 
-**Link to work:** doin FCC course
+**Link to work:** doing FCC course
+
+
+### Day 7: March 17, 2022
+
+**Today's Progress:** Learned about a some accessibility practices
+
+**Link to work:** Doing FCC course.
+
+
+### Day 8: March 18, 2022
+
+**Today's Progress:**
+
+**Link to work:** Doing FCC course.
+
