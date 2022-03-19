@@ -61,7 +61,8 @@
 
 ### Day 8: March 18, 2022
 
-**Today's Progress:**
+**Today's Progress:** Finished the Applied Accessibility, Responsible Web Design Principles, and CSS flexbox portion of FCC's curriculum. Only have CSS grid and a few projects left before (re)starting learning JavaScript.
 
 **Link to work:** Doing FCC course.
+
 
