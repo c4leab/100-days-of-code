@@ -73,3 +73,12 @@
 **Link to work:** Doing FCC course.
 
 
+### Day 10: March 21, 2022
+
+**Today's Progress:** Stared working on the layout for my tribute page
+
+**thoughts:** really struggled with flexbox and grid
+
+**Link to work:** [tribute page](https://codepen.io/c4leab/pen/vYpKYJa)
+
+
