@@ -65,4 +65,10 @@
 
 **Link to work:** Doing FCC course.
 
+### Day 9: March 20, 2022
+
+**Today's Progress:** finished the CSS grid portion of FCC course, only have a few projects left. Excited to work on the projects.
+
+**Link to work:** Doing FCC course.
+
 
